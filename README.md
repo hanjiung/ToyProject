@@ -1,7 +1,7 @@
-# ToyPro123jec12
-#qweqweqweqwe
-#asjdhfuqe;
-qlewkjrqoiwejroi
+# ToyPro123jecqkwejpoqwke12
+#qweqweqweqqwekqpowkewe
+#qwejoij1oiasjdhfuqe;
+qlewkjrqoiwejrqwleqwek;oi
 
 ## ClickGame
 <img src="https://github.com/hanjiung/ToyProject/blob/main/clickGame/TestImage/automaticClick.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
