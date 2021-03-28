@@ -1,6 +1,7 @@
 # ToyProject
 
-## 1. ClickGame
+
+# 1. ClickGame
 <img src="https://github.com/hanjiung/ToyProject/blob/main/clickGame/TestImage/automaticClick.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 
@@ -14,11 +15,9 @@
 - 랜덤으로 위치가 바뀌는 ClickMe(Text)를 자동으로 찾아, 해당 위치로 커서가 이동해서 클릭을 진행합니다.
 
 
-## 2. CoinPrice
+# 2. CoinPrice
 
 <img src="https://github.com/hanjiung/ToyProject/blob/main/CoinPrice/CoinPrice.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
-
-
 
 
 ### Utilized python library
