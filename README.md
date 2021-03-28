@@ -16,7 +16,7 @@
 
 ## 2. CoinPrice
 
-<img src="https://github.com/hanjiung/ToyProject/" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+<img src="https://github.com/hanjiung/ToyProject/blob/main/CoinPrice/CoinPrice.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 
 
